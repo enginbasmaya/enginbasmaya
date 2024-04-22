@@ -25,7 +25,7 @@
     <img src="https://enginbasmaya.com.tr/git/Bootstrap.svg" alt="bootstrap" width="45"/>
 </a>
 <a href="https://www.laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://enginbasmaya.com.tr/git/Laravel.svg" alt="Laravel" width="55"/>
+    <img src="https://enginbasmaya.com.tr/git/Laravel.svg" alt="Laravel" width="45"/>
 </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://enginbasmaya.com.tr/git/PHP.svg" alt="PHP" width="45"/>
