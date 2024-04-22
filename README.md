@@ -36,6 +36,9 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://enginbasmaya.com.tr/git/JavaScript.svg" alt="JavaScript" width="40"/>
 </a>
+<a href="https://www.redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://enginbasmaya.com.tr/git/Redis.svg" alt="Redis" width="40"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://enginbasmaya.com.tr/git/React.svg" alt="React" width="40"/>
 </a>
