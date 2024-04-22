@@ -28,10 +28,10 @@
     <img src="https://enginbasmaya.com.tr/git/Laravel.svg" alt="Laravel" width="45"/>
 </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://enginbasmaya.com.tr/git/PHP.svg" alt="PHP" width="45"/>
+    <img src="https://enginbasmaya.com.tr/git/PHP.svg" alt="PHP" width="50"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://enginbasmaya.com.tr/git/MySQL.svg" alt="MySQL" width="55"/>
+    <img src="https://enginbasmaya.com.tr/git/MySQL.svg" alt="MySQL" width="60"/>
 </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://enginbasmaya.com.tr/git/JavaScript.svg" alt="JavaScript" width="40"/>
